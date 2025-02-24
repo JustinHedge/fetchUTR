@@ -20,7 +20,7 @@ This Node.js script fetches Universal Tennis Rating (UTR) data for tennis teams 
 
 ## Output
 
-The script outputs team data to the console in a Discord-friendly format. For example:
+The script outputs team data to the console in a markdown-friendly format. For example:
 ```javascript
 Team: Team A
 Player One: Singles UTR: 6.50, Doubles UTR: 6.80
