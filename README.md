@@ -31,7 +31,7 @@ Team: Team B ...
 ```
 
 
-Copy the output and paste it into Discord for a formatted display. Note that unreliable UTRs (with less than 100% progress) will display their reliability percentages and are excluded from the team averages.
+Copy the output and paste it into somewhere for a formatted display. Note that unreliable UTRs (with less than 100% progress) will display their reliability percentages and are excluded from the team averages.
 
 ## Debug Mode
 
